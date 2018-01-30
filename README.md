@@ -1,2 +1,1 @@
-# orvis-fcc-timestamp
-FCC Api Challenge: Timestamp microservice
+# Backend Challenges boilerplate - package.json
